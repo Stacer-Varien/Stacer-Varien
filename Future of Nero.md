@@ -1,4 +1,4 @@
-Hello, goeie dag, mhoro,
+Hello,
 
 As most of you know, Discord is forcing bot developers to implement slash commands into their bots. This has caused Danny, the core and sole maintainer of discord.py to step down.
 
@@ -34,4 +34,5 @@ Almost the same as B but someone has forked the libraries to bypass some of the 
 I will try all my best to make sure Nero makes it through April 2022, even if it means changing programming language. Like I said, I will not let my 4+ months go to waste.
 
 Thank you and stay safe
-ZaneRE
+
+`ZaneRE`
