@@ -8,7 +8,7 @@ Every bot has their own prefix that makes them go to work. I would rather stick 
 
 __Reason 2:__
 
-I have not yet developed functionail databases to store the custom prefixes for the server. I am trying to develop a database to keep these kind of prefixes but failed. Another thing is that if I did, it will be only be used for the currency and levelling system as I have seen how hard they are to create a functional one.
+I have not yet developed functional databases to store the custom prefixes for the server. I am trying to develop a database to keep these kind of prefixes but failed. Another thing is that if I did, it will be only be used for the currency and levelling system as I have seen how hard they are to create a functional one.
 
 __Reason 3:__
 
