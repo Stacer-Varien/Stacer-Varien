@@ -14,3 +14,5 @@ Just to be on the safe side, I added '@commands.is_nsfw()' on the wallpaper comm
 (both prefixed and slash) so if anyone tries to execute this command, it will return
 with an NSFW error message if the channel is not NSFW enabled. I do not care if SFW
 pics come from the wallpaper command, still, the command gave me 3 NSFW pics.
+
+UPDATE: It is now SFW as it is no longer using the Nekos.life API
