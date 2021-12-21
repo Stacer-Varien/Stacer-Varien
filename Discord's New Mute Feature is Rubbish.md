@@ -13,5 +13,5 @@ Yep, as you can see, Discord brought in their own mute feature, made to mute som
 # Will developers remove the mute features from their bots?
 I don't believe so but if a bot dev decided to remove the mute feature, then I have lost hope in them. Also, I will **NOT** remove the mute feature from Jeanne. Even some devs I know is refusing to revoke their bot's mute feature.
 
-#Conclusion
+# Conclusion
 I belive the new mute feature won't last for a year or better yet, a month. Discord can attempt to kill more bots because of their own features they are bringing but most bots had them before Discord brought them up.
