@@ -1,24 +1,34 @@
-<h1 align="center">Hi 👋, I'm Varien</h1>
-<h3 align="center">Discord bot developer, gamer and anime lover in South African</h3>
+# 💫 About Me:
+🔭 I’m currently working on [Jeanne](https://github.com/Varien-1936/Jeanne-Bot)<br><br>🌱 I’m currently learning [Accounting Sciences](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Undergraduate-qualifications/Qualifications/All-qualifications/Diploma-in-Accounting-Sciences-(98200)) in [UNISA](https://www.unisa.ac.za/sites/corporate/default) and Python on my own<br><br>📫 How to reach me zane544yt@protonmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varien-1936" alt="varien-1936" /></a> </p>
 
-- 🔭 I’m currently working on [Jeanne](https://github.com/Varien-1936/Jeanne-Bot)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Vfa796yvNq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whitephoneixmusic1936) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Varien_1936) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/W_PhoenixMusic) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCpocUkY2iwmDAWRboPTRy3Q) 
 
-- 🌱 I’m currently learning **Accounting Sciences in UNISA and Python on my own**
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Varien-1936&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Varien-1936&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varien-1936&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **zane544yt@protonmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Varien-1936&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/re_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re_music" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/REMusic_544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="RE Music" height="30" width="40" /></a>
-<a href="https://discord.gg/VVxGUmqQhF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VVxGUmqQhF" height="30" width="40" /></a>
-</p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=W_PhoenixMusic)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varien-1936&show_icons=true&theme=onedark&locale=en" alt="varien-1936" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Varien-1936&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4F6YC9)
+---
+[![](https://visitcount.itsvg.in/api?id=Varien-1936&icon=1&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/varien1936) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
