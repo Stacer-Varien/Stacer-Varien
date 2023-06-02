@@ -9,7 +9,9 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
 ![Stacer-Varien's Stats](https://github-readme-stats.vercel.app/api?username=Stacer-Varien&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![Stacer-Varien's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stacer-Varien&theme=vue-dark&hide_border=true)
+
 ![Stacer-Varien's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacer-Varien&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
