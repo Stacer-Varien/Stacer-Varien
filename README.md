@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Jeanne](https://github.com/Varien-1936/Jeanne-Bot)<br><br>🌱 I’m currently learning [Accounting Sciences](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Undergraduate-qualifications/Qualifications/All-qualifications/Diploma-in-Accounting-Sciences-(98200)) in [UNISA](https://www.unisa.ac.za/sites/corporate/default) and Python on my own<br><br>📫 How to reach me zane544yt@protonmail.com
+🔭 I’m currently working on [Jeanne](https://github.com/Stacer-Varien/Jeanne-Bot)<br><br>🌱 I’m currently learning [Accounting Sciences](https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Undergraduate-qualifications/Qualifications/All-qualifications/Diploma-in-Accounting-Sciences-(98200)) in [UNISA](https://www.unisa.ac.za/sites/corporate/default) and Python on my own<br><br>📫 How to reach me zane544yt@protonmail.com
 
 
 ## 🌐 Socials:
